@@ -2,4 +2,5 @@
 
 source ./settings.sh
 
-python ./getTourneyIDs.py --url "$URL" --body "$TournamentsPageBody"
+python ./getTourneyIDs.py --url "$URL" --body "$TournamentsPageBody" > $IDFile
+sed -i 's/\r//' $IDFile

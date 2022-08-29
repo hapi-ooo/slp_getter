@@ -1,5 +1,0 @@
-TODO's
-
-separate 'apiURL and other constants' into a config file or something:
-get ids of tourneys and set up selecting different tourneys
-clean up get-slp.sh and try to fix hardcoded stuff

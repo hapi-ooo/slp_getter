@@ -17,12 +17,11 @@ def main():
   #import urllib.parse
   responseJSON = requests.post(url, json=body).json()
   idCount = responseJSON['data']['aggregateTournament']['count']
-  print(f'idCount = {idCount}')
 
   idList =  responseJSON['data']['queryTournament']
   idList = [x['id'] for x in idList]
   for i in range(idCount):
-    print(f'{i}:\t{idList[i]}')
+    print(f'{idList[i]}')
 
 if __name__ == '__main__':
   main()

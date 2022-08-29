@@ -1,4 +1,0 @@
-storage.googleapis.com/slippi.appspot.com/replays/114117/Day%201-Game_20210716T063842.slp
-storage.googleapis.com/slippi.appspot.com/replays/114117/Day%201-Game_20210716T063413.slp
-storage.googleapis.com/slippi.appspot.com/replays/114117/Day%201-Game_20210716T063045.slp
-storage.googleapis.com/slippi.appspot.com/replays/114117/Day%201-Game_20210716T062838.slp
